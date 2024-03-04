@@ -6,7 +6,7 @@
 # Probabilistic Masked Spatial-Temporal Skeleton Reconstruction: General Skeleton Semantics Learning for Person Re-Identification
 
 ## Introduction
-This is the implementation of different models applying ProMISE presented by "Probabilistic Masked Spatial-Temporal Skeleton Reconstruction: General Skeleton Semantics Learning for Person Re-Identification".
+This is the implementation of ProMISE (applied to different state-of-the-art models) presented by "Probabilistic Masked Spatial-Temporal Skeleton Reconstruction: General Skeleton Semantics Learning for Person Re-Identification".
 
 ## Environment
 - Python >= 3.5
